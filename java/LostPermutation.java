@@ -1,4 +1,4 @@
-package CompetitiveCodingCodeforces;
+package CompetitiveCodingCodeforces.java;
 
 import java.util.*;
 public class LostPermutation {
